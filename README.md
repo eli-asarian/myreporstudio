@@ -1,4 +1,4 @@
 # myreporstudio
 testing my setup with rstudio
 
-This is a line from RStudio
+This is a line from RStudio v2
